@@ -1,10 +1,10 @@
 # ShopNest-E-commerce-PowerBi-Project
 Welcome to the Shopnest Store Sales Dashboard !
 
-Overview
+**Overview**
 This repository contains a comprehensive analysis of sales data for ShopNest, the leading department store in the e-commerce marketplaces in Portugal. It serves as a seamless link, connecting small businesses from various regions to online channels. In today's dynamic business environment, data analytics plays a crucial role in enhancing decision-making and operational efficiency. The purpose of this project is to delve into ShopNest's operations through data analytics, uncovering insights that drive business growth and optimization.
 
-About the Dataset
+**About the Dataset**
 The dataset consists of following 9 datasets and the descriptions are below
 
 Customers_dataset: Dataset containing information about ShopNest customers, including demographics and purchasing history.
